@@ -77,4 +77,4 @@ Please cite the simulation codes or theoretical formulations using the provided 
 * **Author:** Ehab Mohamed Abdel Gwad Manse
 * **Email:** ehabmanse2@gmail.com
 * **ORCID:** https://orcid.org
-([https://orcid.org](https://orcid.org/0009-0009-4846-6188))
+(https://orcid.org/0009-0009-4846-6188))
