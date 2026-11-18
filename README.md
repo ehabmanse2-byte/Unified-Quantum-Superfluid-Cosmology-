@@ -2,7 +2,7 @@
 
 [![ORCID](https://shields.io)](https://orcid.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
-[![Open In Colab](https://google.com)](https://colab.research.google.com/)
+[![Open In Colab](https://google.com)](https://google.com)
 
 Official computational repository accompanying the theoretical physics manuscript:
 > **"Space-time as a Unified Quantum Fluid Model for Dark Components, Quantum Phenomena, and Ordinary Matter: Theoretical Framework, Mathematical Appendix, and Empirical Benchmarks"**  
@@ -23,12 +23,12 @@ Click any badge below to launch and execute the corresponding simulation directl
 
 | Simulation ID | Notebook Title | Manuscript Reference | Interactive Launch |
 | :--- | :--- | :--- | :--- |
-| **Sim 1** | `Sim1_3D_Hubble_Expansion.ipynb` | Section C.1, Eq. (12), **Figure 1** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1Jl2KwySGR8Jh97-HpmOZcE5Drhh43e3B) |
-| **Sim 2** | `Sim2_3D_GW_Neutrino_Dispersion.ipynb` | Section C.2, Eqs. (9)–(10), **Figure 2** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1W14P-d_mjqrn_R-wR99lcH_UnVM07Jvx) |
-| **Sim 3** | `Sim3_3D_Macro_Quantum_Loop.ipynb` | Section C.3, Eq. (6), **Figure 3** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1S2kHtIezt92HTV7Y4FF9JFE3-wkQnfNB) |
-| **Sim 4** | `Sim4_MCMC_Parameter_Estimation.ipynb` | Section C.4, **Figure 4 & Table 3** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1OBCw5mSGpvNv9jvvXskuQzNeQlqAuZSO) |
-| **Sim 5** | `Sim5_3D_CERN_Higgs_Fluctuations.ipynb` | Section C.5, Eq. (7), **Figure 5** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1vTyjKIvdV4G3_LOPz_9TdbeRQ4HGcYQX) |
-| **Sim 6** | `Sim6_3D_EHT_Horizon_Shear.ipynb` | Section C.6, Eq. (8), **Figure 6** | [![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1r39rMeT21eadCxXkfTKHodEZYwIsFb4G) |
+| **Sim 1** | `Sim1_3D_Hubble_Expansion.ipynb` | Section C.1, Eq. (12), **Figure 1** | [![Open In Colab](https://google.com)](https://google.comdrive/1Jl2KwySGR8Jh97-HpmOZcE5Drhh43e3B) |
+| **Sim 2** | `Sim2_3D_GW_Neutrino_Dispersion.ipynb` | Section C.2, Eqs. (9)–(10), **Figure 2** | [![Open In Colab](https://google.com)](https://google.comdrive/1W14P-d_mjqrn_R-wR99lcH_UnVM07Jvx) |
+| **Sim 3** | `Sim3_3D_Macro_Quantum_Loop.ipynb` | Section C.3, Eq. (6), **Figure 3** | [![Open In Colab](https://google.com)](https://google.comdrive/1S2kHtIezt92HTV7Y4FF9JFE3-wkQnfNB) |
+| **Sim 4** | `Sim4_MCMC_Parameter_Estimation.ipynb` | Section C.4, **Figure 4 & Table 3** | [![Open In Colab](https://google.com)](https://google.comdrive/1OBCw5mSGpvNv9jvvXskuQzNeQlqAuZSO) |
+| **Sim 5** | `Sim5_3D_CERN_Higgs_Fluctuations.ipynb` | Section C.5, Eq. (7), **Figure 5** | [![Open In Colab](https://google.com)](https://google.comdrive/1vTyjKIvdV4G3_LOPz_9TdbeRQ4HGcYQX) |
+| **Sim 6** | `Sim6_3D_EHT_Horizon_Shear.ipynb` | Section C.6, Eq. (8), **Figure 6** | [![Open In Colab](https://google.com)](https://google.comdrive/1r39rMeT21eadCxXkfTKHodEZYwIsFb4G) |
 
 ---
 
