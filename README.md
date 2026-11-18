@@ -62,33 +62,13 @@ Click any badge below to launch and execute the corresponding simulation directl
 
 ## Local Installation & Usage
 
-git clone https://github.com
-cd Unified-Quantum-Superfluid-Cosmology-
-pip install numpy scipy matplotlib jupyter
-jupyter notebook
-
-```bash
-git clone https://github.com
-cd Unified-Quantum-Superfluid-Cosmology-
-pip install numpy scipy matplotlib jupyter
-jupyter notebook
-```
+To run the notebooks locally, clone the repository and install the dependencies (`numpy`, `scipy`, `matplotlib`, `jupyter`) via pip.
 
 ---
 
 ## Citation
 
-If you use these simulation codes or theoretical formulations in your research, please cite:
-
-```bibtex
-@article{Manse2026_UnifiedSuperfluid,
-  author  = {Manse, Ehab Mohamed Abdel Gwad},
-  title   = {Space-time as a Unified Quantum Fluid Model for Dark Components, Quantum Phenomena, and Ordinary Matter: Theoretical Framework, Mathematical Appendix, and Empirical Benchmarks},
-  year    = {2026},
-  month   = {November},
-  note    = {Preprint / Zenodo Archive, ORCID: 0009-0009-4846-6188}
-}
-```
+Please cite the simulation codes or theoretical formulations using the provided BibTeX entry for Ehab Mohamed Abdel Gwad Manse's work.
 
 ---
 
@@ -96,4 +76,5 @@ If you use these simulation codes or theoretical formulations in your research, 
 
 * **Author:** Ehab Mohamed Abdel Gwad Manse
 * **Email:** ehabmanse2@gmail.com
-* **ORCID:** [https://orcid.org]([https://orcid.org](https://orcid.org/0009-0009-4846-6188)
+* **ORCID:** https://orcid.org
+([https://orcid.org](https://orcid.org/0009-0009-4846-6188))
