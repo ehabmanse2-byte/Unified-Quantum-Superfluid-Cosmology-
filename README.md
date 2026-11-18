@@ -66,7 +66,7 @@ To run these notebooks locally instead of Google Colab, clone this repository an
 
 ```bash
 git clone https://github.com
-cd Unified-Quantum-Superfluid-Cosmology
+cd Unified-Quantum-Superfluid-Cosmology-
 pip install numpy scipy matplotlib jupyter
 jupyter notebook
 ```
@@ -93,4 +93,4 @@ If you use these simulation codes or theoretical formulations in your research, 
 
 * **Author:** Ehab Mohamed Abdel Gwad Manse
 * **Email:** ehabmanse2@gmail.com
-* **ORCID:** [https://orcid.org](https://orcid.org)
+* **ORCID:** [https://orcid.org]([https://orcid.org](https://orcid.org/0009-0009-4846-6188))
