@@ -1,6 +1,7 @@
 # Unified Quantum Superfluid Cosmology: Numerical Simulations & MCMC Parameter Estimation
 
 [![ORCID](https://shields.io)](https://orcid.org)
+[![DOI](https://zenodo.org)](https://doi.org)
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Open In Colab](https://google.com)](https://google.com)
 
@@ -8,7 +9,7 @@ Official computational repository accompanying the theoretical physics manuscrip
 > **"Space-time as a Unified Quantum Fluid Model for Dark Components, Quantum Phenomena, and Ordinary Matter: Theoretical Framework, Mathematical Appendix, and Empirical Benchmarks"**  
 > *Author:* Ehab Mohamed Abdel Gwad Manse (Independent Researcher, Cairo, Egypt)  
 > *ORCID:* [0009-0009-4846-6188](https://orcid.org)
-
+> *DOI:* [10.5281/zenodo.24355406]
 ---
 
 ## Overview
